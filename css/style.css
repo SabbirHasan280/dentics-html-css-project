@@ -1,4 +1,5 @@
 /* google font use start*/
+
 @font-face {
   font-family: Proxyma;
   src: url("fonts/Fontspring-DEMO-proximanova-light.otf");
@@ -69,6 +70,7 @@ a {
 /* common button part end */
 
 /* navbar top part start */
+
 #navbar-top-full {
   background-color: #464646;
   padding: 8px 0px;
@@ -102,6 +104,7 @@ a {
 /* navbar top part end */
 
 /* responsive navbar part start */
+
 @media (max-width: 868px) {
   .navbar-top__left {
     display: flex;
@@ -120,6 +123,7 @@ a {
 /* responsive navbar part end */
 
 /* header part start */
+
 header {
   padding: 15px 0px;
   background: #ffffffd6;
@@ -158,6 +162,7 @@ header {
 /* header responsive part end */
 
 /* hero part start */
+
 #hero {
   padding-top: 50px;
   padding-bottom: 150px;
@@ -219,6 +224,7 @@ header {
 /* hero part end */
 
 /* hero responsive part start  */
+
 @media (max-width: 1250px) {
   .hero-part__right__image {
     position: absolute;
@@ -265,6 +271,7 @@ header {
 /* hero responsive part end */
 
 /* elevet part start */
+
 #elevate {
   padding: 40px 0px;
   background: #f8fafc;
@@ -311,6 +318,7 @@ header {
 /* elevet partt end */
 
 /* elevet responsive part start */
+
 @media (max-width: 1024px) {
   .elevate-part__left {
     height: 450px;
@@ -343,6 +351,7 @@ header {
 /* elever responsive part end */
 
 /* awesome part start */
+
 #awesome {
   padding: 40px 0px;
   background: #ffffff;
@@ -406,6 +415,7 @@ header {
 /* awesome part end */
 
 /* awesome responsive part start */
+
 @media (max-width: 1260px) {
   .awesome-heading__text {
     width: 40%;
