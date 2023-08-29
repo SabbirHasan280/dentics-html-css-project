@@ -1,9 +1,9 @@
-/* google font use */
+/* google font use start*/
 @font-face {
   font-family: Proxyma;
   src: url("fonts/Fontspring-DEMO-proximanova-light.otf");
 }
-/* google font use */
+/* google font use end*/
 
 /* all common css start */
 * {
@@ -36,6 +36,10 @@ a {
   /* margin: 0 auto; */
   padding-inline: 30px;
 }
+
+
+/* responsive container part start */
+
 @media (max-width: 450px) {
   .container {
     padding-inline: 15px;
@@ -49,17 +53,18 @@ a {
     padding: 0;
   }
 }
+/* responsive container part end */
+
 /* common button part start */
+
 .common-part__btn button {
   background: var(--primary);
   color: #ffffff;
   font-weight: 600;
   font-size: 16px;
-  /* font-family: ; */
   padding: 13px;
   border: none;
   border-radius: 5px;
-  /* margin-left: 50px; */
 }
 /* common button part end */
 
