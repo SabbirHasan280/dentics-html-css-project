@@ -385,14 +385,14 @@ header {
 }
 .awesome-part__right h2 {
   font-size: 30px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   font-weight: 600;
   margin-top: 50px;
   margin-bottom: 25px;
 }
 .awesome-part__right p {
   font-size: 16px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   font-weight: 400;
   margin-bottom: 40px;
 }
@@ -408,7 +408,7 @@ header {
 .awesome-part__right__icon h3 {
   font-size: 20px;
   font-weight: 600;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   margin-left: 25px;
 }
 /* awesome part end */
