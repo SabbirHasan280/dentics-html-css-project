@@ -599,7 +599,7 @@ header {
 }
 .orthodontist-part .orthodontist-part__text {
   font-size: 16px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   font-weight: 400;
   margin-bottom: 50px;
 }
@@ -639,7 +639,7 @@ header {
   color: #ffffff;
   font-weight: 400;
   font-size: 16px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   padding: 12px 25px;
   border: none;
   border-radius: 5px;
@@ -799,7 +799,7 @@ header {
 }
 .help-part__text h1 {
   font-size: 24px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   font-weight: 600;
   margin-top: 20px;
 }
