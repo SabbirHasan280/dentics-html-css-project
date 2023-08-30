@@ -805,7 +805,7 @@ header {
 }
 .help-part__text p {
   font-size: 16px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   font-weight: 400;
   margin-top: 15px;
   margin-bottom: 15px;
@@ -825,7 +825,9 @@ header {
   z-index: 99;
 }
 /* help part end */
+
 /* patients part start */
+
 #patients {
   padding: 40px 0px;
   background-color: #f8fafc;
@@ -845,7 +847,7 @@ header {
 }
 .patients-part-heading h3 {
   font-size: 22px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   font-weight: 600;
   margin-top: 15px;
   margin-bottom: 15px;
@@ -853,7 +855,7 @@ header {
 }
 .patients-part-heading p {
   font-size: 16px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   font-weight: 400;
   color: #545656;
   margin-bottom: 30px;
@@ -867,13 +869,13 @@ header {
 .patients-part__one h2 {
   font-size: 26px;
   font-weight: 600;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   margin-bottom: 15px;
 }
 .patients-part__one p {
   font-size: 16px;
   font-weight: 400;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   margin-bottom: 50px;
 }
 .patients-part-item {
@@ -887,12 +889,12 @@ header {
 .patients-part-item__text h4 {
   font-size: var(--section-sub-heading-fz);
   font-weight: 700;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
 }
 .patients-part-item__text h5 {
   font-size: 17px;
   font-weight: 400;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   color: #747474;
   margin-top: 10px;
   margin-bottom: 15px;
@@ -900,7 +902,7 @@ header {
 .patients-part-item__text span {
   font-size: 17px;
   font-weight: 400;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   color: #219ed3;
 }
 .patients-part__two {
