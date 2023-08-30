@@ -1059,6 +1059,7 @@ header {
 /* patients responsive part end */
 
 /* Destination part start */
+
 #destination {
   padding: 30px 0px;
 }
@@ -1129,7 +1130,7 @@ header {
   color: #ffffff;
   font-weight: 400;
   font-size: 16px;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   padding: 12px 45px;
   border: none;
   border-radius: 5px;
@@ -1142,6 +1143,7 @@ header {
 /* destination responsive part end */
 
 /* footer part start */
+
 #footer {
   padding: 40px 0px;
   background: #219ed3;
@@ -1163,42 +1165,42 @@ header {
 .footer-part__about h1 {
   font-size: 24px;
   font-weight: 600;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   color: #ffffff;
   margin-bottom: 30px;
 }
 .footer-part__about li {
   font-size: 16px;
   font-weight: 400;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   color: #ffffff;
   margin-bottom: 15px;
 }
 .footer-part__link h1 {
   font-size: 24px;
   font-weight: 600;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   color: #ffffff;
   margin-bottom: 30px;
 }
 .footer-part__link li {
   font-size: 16px;
   font-weight: 400;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   color: #ffffff;
   margin-bottom: 15px;
 }
 .footer-part__location h1 {
   font-size: 24px;
   font-weight: 600;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   color: #ffffff;
   margin-bottom: 30px;
 }
 .footer-part__location li {
   font-size: 16px;
   font-weight: 400;
-  /* font-family: ; */
+  /* font-family: "Proxima Nova"; */
   color: #ffffff;
   margin-bottom: 15px;
 }
@@ -1236,6 +1238,7 @@ header {
 /* footer part end */
 
 /* footer responsive part start */
+
 @media (max-width: 1024px) {
   .footer_part {
     display: grid;
