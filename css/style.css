@@ -1220,6 +1220,7 @@ header {
   border: none;
   border-radius: 5px;
   margin-top: 25px;
+  cursor: pointer;
 }
 .footer-allpart__underline {
   width: 100%;
