@@ -283,7 +283,6 @@ header {
 .elevate-part__right h2 {
   font-size: var(--section-sub-heading-fz);
   font-weight: 800;
-  /* font-family: sans-serif; */
   color: var(--black);
   margin-bottom: 20px;
 }
