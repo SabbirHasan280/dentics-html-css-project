@@ -170,7 +170,6 @@ header {
 .hero-part__left h2 {
   font-size: var(--section-heading-fz);
   font-weight: 800;
-  /* font-family: sans-serif; */
   color: var(--primary);
   line-height: 50px;
   margin-bottom: 20px;
